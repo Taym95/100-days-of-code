@@ -9,3 +9,10 @@
 **Link(s) to work**
 1. [ reactjs starter template](https://github.com/Taym95/react-template)
 2. [cloing youtube with reactjs ](https://github.com/Taym95/Youtube-clone-react)
+
+
+### Day 2: January 11, wednesday 
+
+**Today's Progress**:  Using ArduinoJson library to parse json in Arduino.
+
+**Thoughts** I have learned how to create and parse json in arduino board with (arduino c++) .
